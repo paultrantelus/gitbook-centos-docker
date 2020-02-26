@@ -1,4 +1,4 @@
-# GitBook CentOS Docker Container ( Paul Tran )
+# GitBook CentOS Docker Container ( Test )
 
 Gitbook implementation on a CentOS based container. 
 
